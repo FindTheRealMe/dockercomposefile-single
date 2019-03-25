@@ -1,0 +1,5 @@
+*.temp
+servervenv
+servervenv3
+*.pyc
+*.bak
